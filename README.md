@@ -11,4 +11,4 @@ HTML, CSS, БЭМ
 
 ## Ссылка на сайт
 
-[Сайт](https://pluusultra.github.io/russian-travel/) доступен по ссылке https://pluusultra.github.io/russian-travel/
+Сайт доступен по ссылке https://pluusultra.github.io/russian-travel/
