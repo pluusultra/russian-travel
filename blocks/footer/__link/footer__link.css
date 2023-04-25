@@ -11,7 +11,7 @@
 
 .footer__link:hover {
   cursor: pointer;
-  opacity: 0.3;
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 750px) {
